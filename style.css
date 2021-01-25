@@ -1,0 +1,16 @@
+p{
+    color: black;
+}
+h5{
+    color: goldenrod;
+}
+body{
+    background-color: goldenrod;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+#carouselExampleCaptions{
+    size: 50px;
+}
+.bro{
+    height: 500px;
+}
